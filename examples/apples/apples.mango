@@ -1,0 +1,4 @@
+def num apples 20
+print "Hey there...! I heard you have "
+print apples
+print " apples!"

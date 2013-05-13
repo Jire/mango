@@ -1,0 +1,7 @@
+def text name "Thomas"
+print "Greetings, "
+print name
+println "!"
+print "How are you, "
+print name
+print " ?"
